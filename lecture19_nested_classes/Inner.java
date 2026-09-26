@@ -1,4 +1,4 @@
-package lecture_19_nested_classes;
+package lecture19_nested_classes;
 
 class Outer {
     class Inner {

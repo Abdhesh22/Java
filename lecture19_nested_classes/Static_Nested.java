@@ -1,4 +1,4 @@
-package lecture_19_nested_classes;
+package lecture19_nested_classes;
 
 // Inner class can only use the static function of Outer class or else they will get error because Static class can be create without the object of creating the object of outer class
 // if we need to call the any non static function of outer then we need pass the object reference of outer class
