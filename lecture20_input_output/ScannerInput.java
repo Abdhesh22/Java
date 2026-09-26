@@ -13,5 +13,6 @@ public class ScannerInput {
         System.out.println(num);
         System.out.println(name2);
         System.out.println(name);
+        sc.close();
     }
 }
